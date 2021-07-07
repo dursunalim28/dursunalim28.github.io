@@ -1,0 +1,38 @@
+body{
+    background: url("../resimler/arka.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#profil{
+    margin-top:5%;
+    margin-left:35%;
+    display:flex;
+    width:30%;
+    height:auto;
+    background-color:burlywood;
+    flex-direction:column;
+    text-align: center;
+}
+#profil #profilresim{
+    margin-top:25px;
+    margin-left:28%;
+    border-radius:50%;
+}
+#profil #profilresim:hover{
+    width:190px;
+    height:190px;
+}
+h2{
+    font-size:35px;
+}
+#adres{
+    padding:10px;
+}
+#adres img{
+    padding:30px;
+}
+#adres img:hover{
+    background-color:bisque;
+    color:aqua;
+}
