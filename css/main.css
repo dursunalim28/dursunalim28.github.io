@@ -37,13 +37,8 @@ h2{
     background-color:bisque;
     color:aqua;
 }
-@media only screen and(max-width:465px){
+@media screen and(max-width:465px){
     #profil{
-        margin:0;
-        display:none;
-        width:100%;
-        height:auto;
-        background-color:burlywood;
-        text-align: center;
+        width:70%;
     }
 }
