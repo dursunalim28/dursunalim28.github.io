@@ -15,6 +15,7 @@ body{
     text-align: center;
 }
 #profil #profilresim{
+    width:45%;
     margin-top:25px;
     margin-left:28%;
     border-radius:50%;
