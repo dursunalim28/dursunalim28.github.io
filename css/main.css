@@ -15,9 +15,9 @@ body{
     text-align: center;
 }
 #profil #profilresim{
-    width:45%;
+    width:35%;
     margin-top:25px;
-    margin-left:28%;
+    margin-left:31%;
     border-radius:50%;
 }
 #profil #profilresim:hover{
@@ -81,10 +81,5 @@ h2{
         margin:auto;
         display:flex;
         flex-direction:column;
-    }
-    #profil #profilresim{
-        margin-left:33%;
-        width:250px;
-        height:250px;
     }
 }
