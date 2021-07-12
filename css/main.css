@@ -83,7 +83,7 @@ h2{
         flex-direction:column;
     }
     #profil #profilresim{
-        margin-left:33%;
+        margin-left:auto;
         width:250px;
         height:250px:
     }
